@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "name",
+      "value" : "wadiz"
+    }, {
+      "trait_type" : "color",
+      "value" : "red"
+    } ],
+    "description" : "Hello World!",
+    "image" : "ipfs://QmQghw6D8ftz2vvRmtjcd9vmGCeJoFCTCTs1eN3yGBKDYS",
+    "name" : "Eze"
+}

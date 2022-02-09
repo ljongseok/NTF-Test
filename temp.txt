@@ -1,0 +1,44 @@
+솔리디티
+https://remix.ethereum.org/
+
+샘플 코드
+https://github.com/coinResearch2021/nfttutorial
+
+NFTMinter - https://github.com/coinResearch2021/nfttutorial/blob/main/NFTMinter.sol
+
+
+Metadata
+ipfs://Qma6W2hJqaFiT2vfMMecvPX8tgm1zCG3difTfkpsirhhY1
+
+이미지
+메타데이터
+NTC 토큰 컨트랙트 코드
+
+
+ipfs 무료사이트 - https://www.pinata.cloud/
+NTC 이미지, 메타데이터
+
+
+https://rinkeby.etherscan.io/
+
+
+tokenURI
+ipfs://QmcKCz6oJJk5hBP4RT7mmjiYd8EvgpN4dqM6gooot6MH2f
+
+
+
+kaikas 암호화폐 지갑
+https://chrome.google.com/webstore/detail/kaikas/jblndlipeogpafnldhgmapagcccfchpi
+
+
+클레이튼 IDE 
+https://ide.klaytn.com/
+
+KIP17 Ownable - https://github.com/coinResearch2021/nfttutorial/blob/main/KIP17OwnableFlattened.sol
+
+
+클레이튼 블록 뷰어 - 바오밥
+https://baobab.scope.klaytn.com/
+
+오픈씨 - 테스트
+https://testnets.opensea.io/

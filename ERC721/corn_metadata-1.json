@@ -1,0 +1,15 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Taste",
+      "value" : "Butter"
+    }, {
+      "trait_type" : "Raw Material",
+      "value" : "Corn, Butter"
+    }, {
+      "trait_type" : "Site",
+      "value" : "joodangburi.com"
+    } ],
+    "description" : "The world's most delicious Popcorn.",
+    "image" : "ipfs://QmVBkGbPH7bhpEXt8QjvdncrfQso9iFZnAWSqUmKyXo2Rs",
+    "name" : "PopFlower"
+}
