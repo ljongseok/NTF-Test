@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: nft
+server:
+  port: 9210
+#security:
+#  user:
+#    name: admin
+#    password: secret
+#management:
+#  security:
+#    enabled: false
+#  health:
+#    redis:
+#      enabled: false
+logging:
+  pattern:
+    console: "%d{HH:mm:ss.SSS} %-5level %-40logger{40} : %msg%n"
+  level:
+    org.springframework: INFO

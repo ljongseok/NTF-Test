@@ -1,0 +1,16 @@
+schedule:
+  block:
+    ten-seconds: 10000
+#    ten-seconds: 3000
+    tmp: "0 0 4 * * ?"
+
+web3j:
+  rpc-address: "https://rinkeby.infura.io/v3/d7ccb176638a442d9d19b083802bdb78"
+
+#spring:
+#  task:
+#    scheduling:
+#      pool:
+#        size: 8
+#      thread-name-prefix: block-sc
+
